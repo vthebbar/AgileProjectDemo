@@ -8,5 +8,6 @@ public class SampleProgram {
 
         System.out.println("Sum="+ sum1);
 
+        System.out.println("End of program");
     }
 }
